@@ -8,17 +8,18 @@ Python 3.7
 
 ## Result
 The balanced accuracy scores and the precision and recall scores for each model are as below:
-<img src="Resources/Naive_Random_Oversampling.JPG" width="800">
+<img src="Resources/Naive_Random_Oversampling.PNG" width="800">
 *SMOTE Oversampling algorithm: the balanced accuracy score is 0.66, precision score is 0.01 for high risk loan and 1 for low risk loan. The recall score is 0.66 for high risk loan and 0.67 for low risk loan.
-<img src="Resources/SMOTE_Oversampling.JPG" width="800">
+<img src="Resources/SMOTE_Oversampling.PNG" width="800">
 *Native Random Oversampling: the balanced accuracy score is 0.63, precision score is 0.01 for high risk loan and 1 for low risk loan. The recall score is 0.62 for high risk loan and 0.64 for low risk loan.
-<img src="Resources/ClusterCentroids_Undersampling.JPG" width="800">
+<img src="Resources/ClusterCentroids_Undersampling.PNG" width="800">
 *ClusterCentroids Undersampling algorithm: the balanced accuracy score is 0.52, precision score is 0.01 for high risk loan and 1 for low risk loan. The recall score is 0.63 for high risk loan and 0.41 for low risk loan.
-<img src="Resources/Combination_SMOTEENN.JPG" width="800">
+<img src="Resources/Combination_SMOTEENN.PNG" width="800">
 *SMOTEENN Sampling algorithm: the balanced accuracy score is 0.52, precision score is 0.01 for high risk loan and 1 for low risk loan. The recall score is 0.74 for high risk loan and 0.58 for low risk loan.
-<img src="Resources/Balanced_Random_Forest_Classifier.JPG" width="800">
+<img src="Resources/Balanced_Random_Forest_Classifier.PNG" width="800">
+
 *Balanced Random Forest Classifier: the balanced accuracy score is 0.79, precision score is 0.03 for high risk loan and 1 for low risk loan. The recall score is 0.70 for high risk loan and 0.87 for low risk loan.
-<img src="Resources/Easy_Ensemble_AdaBoost_Classifier.JPG" width="800">
+<img src="Resources/Easy_Ensemble_AdaBoost_Classifier.PNG" width="800">
 *Easy Ensemble AdaBoost Classifier: the balanced accuracy score is 0.93, precision score is 0.09 for high risk loan and 1 for low risk loan. The recall score is 0.92 for high risk loan and 0.94 for low risk loan.
 
 ## Summary
